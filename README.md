@@ -4,6 +4,7 @@
 
 - 🔥 Software Engineering Student
 - 🔥 Computer Technician 
+- 📚 Currently studying HTML5
 
 <br><br>
 
