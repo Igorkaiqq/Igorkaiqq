@@ -24,3 +24,12 @@
 </p>
 
 <br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/igor-kaique" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-igorkaiqq-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+</p>
