@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Kaique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Igorkaiqq&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Software Engineering Student
+- 🔥 Analysis and systems development Student
 - 🔥 Computer Technician 
-- 📚 Currently studying HTML5
+- 📚 Currently studying Java
 
 <br><br>
 
