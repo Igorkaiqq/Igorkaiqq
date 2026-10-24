@@ -46,6 +46,12 @@ Management software for makers and 3D printing shops: product pricing, sales, in
 
 `NestJS` `React` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Docker`
 
+### Ofertas
+
+Affiliate deals bot. It takes a product link (pasted by hand, cloned from other groups or found automatically on Shopee and AliExpress), swaps in my affiliate link, writes the post and publishes it to WhatsApp and Telegram groups, spacing the sends so the numbers don't get banned. Works with Shopee, AliExpress, Mercado Livre, Amazon, Magalu and TikTok Shop. An LLM writes only the opening line of each post; price, coupon and link always come from code. Private.
+
+`Next.js` `React` `TypeScript` `Drizzle` `SQLite` `Docker`
+
 ### [Rinha das Lendas](https://github.com/Igorkaiqq/RinhaDasLendas)
 
 Organizes custom League of Legends matches: player sign-up, captain picks, team draft and balancing, rankings and a Discord integration. Built with a spec-driven workflow.
