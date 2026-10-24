@@ -1,31 +1,23 @@
 <div align="center">
 
-# Hi, I'm Igor Kaique 👋
+# Igor Kaique
 
-### Full Stack Developer · Software Architecture · AI & Automation
+Full stack developer from Paraná, Brazil. Mostly .NET and TypeScript.
 
-Building practical software, scalable systems and products that solve real-world problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-kaique)
-[![GitHub](https://img.shields.io/badge/GitHub-Igorkaiqq-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Igorkaiqq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igor--kaique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-kaique)
 ![Profile views](https://komarev.com/ghpvc/?username=Igorkaiqq&style=flat-square&color=2563eb)
 
 </div>
 
----
+## About
 
-## 👨‍💻 About me
+I studied Systems Analysis and Development and I'm now doing a postgraduate program in Artificial Intelligence. Day to day I work on the whole stack: database, API, front end, containers and deploy.
 
-I'm a Full Stack Developer based in Paraná, Brazil, with a background in **Systems Analysis and Development** and postgraduate studies in **Artificial Intelligence**.
+I also run IKC, a small 3D printing and custom products shop. Most of my side projects start there, as a fix for something that was eating my time: pricing, stock, production queue, posting products online.
 
-I enjoy working across the entire software lifecycle — from architecture and APIs to user interfaces, databases, infrastructure and deployment. I'm especially interested in building software products, improving developer workflows and applying AI where it creates real value.
+Lately I've been building AI agents and automating the repetitive parts of my own workflow.
 
-- 🧱 **Engineering:** software architecture, clean code, domain modeling and maintainability
-- 🤖 **Exploring:** AI integrations, intelligent agents and workflow automation
-- ☁️ **Building with:** containers, Linux, CI/CD and cloud infrastructure
-- 🖨️ **Beyond software:** 3D printing, digital manufacturing and entrepreneurship
-
-## 🛠️ Tech stack
+## Stack
 
 **Backend**
 
@@ -35,44 +27,36 @@ I enjoy working across the entire software lifecycle — from architecture and A
 
 ![Frontend](https://skillicons.dev/icons?i=react,vue,angular,ts,js,vite,tailwind,html,css)
 
-**Data & messaging**
+**Data and messaging**
 
 ![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Infrastructure & tools**
+**Infra and tools**
 
 ![Infrastructure](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,azure,vscode,postman)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Dev Containers](https://img.shields.io/badge/Dev%20Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🚀 Projects
+## Projects
 
-### 🖨️ MakerDesk — Software for makers and 3D printing businesses
+### MakerDesk
 
-A software product focused on helping makers manage their operations, including product pricing, sales, inventory and production workflows.
+Management software for makers and 3D printing shops: product pricing, sales, inventory and production. In active development; the repo is private for now.
 
-**Stack:** NestJS · React · TypeScript · Prisma · PostgreSQL · Redis · Docker
+`NestJS` `React` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Docker`
 
-> Currently under active development. The main repository is private.
+### [Rinha das Lendas](https://github.com/Igorkaiqq/RinhaDasLendas)
 
-### 🥊 [Rinha das Lendas](https://github.com/Igorkaiqq/RinhaDasLendas) — Community match management
+Organizes custom League of Legends matches: player sign-up, captain picks, team draft and balancing, rankings and a Discord integration. Built with a spec-driven workflow.
 
-A project for organizing custom League of Legends matches, with a .NET backend, Vue frontend and a specification-driven development workflow.
+`.NET` `Vue` `PostgreSQL` `Docker` `Dev Containers`
 
-**Stack:** .NET · Vue · PostgreSQL · Docker · Dev Containers
+### MyWallet
 
-### 💰 MyWallet — Personal finance & software architecture
+A personal finance app that doubles as my architecture sandbox. I use it to try DDD, CQRS and event-driven design on a domain I actually care about, so the scope changes as I learn. Private.
 
-A personal finance project for exploring software design practices and architectural patterns, including DDD, CQRS, SOLID and event-driven systems.
-
-> An architecture-focused project; implementation and scope may evolve.
-
-### 🧩 IKC — Digital manufacturing & custom products
-
-Hands-on work at the intersection of technology, 3D printing, product development and e-commerce — turning operational challenges into opportunities for automation.
-
-## 📈 GitHub activity
+## GitHub stats
 
 <div align="center">
 
@@ -81,21 +65,8 @@ Hands-on work at the intersection of technology, 3D printing, product developmen
 
 </div>
 
-> GitHub metrics reflect public activity and may not include work in private repositories.
-
-## 🎯 What I'm focused on
-
-- Designing maintainable, production-ready applications
-- Applying AI and automation to real business processes
-- Improving developer experience, testing and delivery workflows
-- Learning more about distributed systems and cloud architecture
+These only count public repositories, and most of what I work on today is private.
 
 ---
 
-<div align="center">
-
-**Build thoughtfully. Keep learning. Solve real problems.**
-
-[Let's connect on LinkedIn ↗](https://linkedin.com/in/igor-kaique)
-
-</div>
+If you want to talk about any of this, LinkedIn is the best place to reach me.
