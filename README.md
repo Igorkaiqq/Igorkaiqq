@@ -1,216 +1,101 @@
-# README.md
-
 <div align="center">
 
-# 👋 Hello, I'm Igor Kaique
+# Hi, I'm Igor Kaique 👋
 
-### Full Stack Developer • Software Architecture Enthusiast • AI Explorer
+### Full Stack Developer · Software Architecture · AI & Automation
 
-<p>
-  <a href="https://linkedin.com/in/igor-kaique">
-    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Kaique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+Building practical software, scalable systems and products that solve real-world problems.
 
-  <img src="https://komarev.com/ghpvc/?username=Igorkaiqq&style=for-the-badge&color=blue" />
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Software+Architecture+Enthusiast;AI+%26+Automation+Explorer;Building+Modern+Applications+with+.NET+and+Vue" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-kaique)
+[![GitHub](https://img.shields.io/badge/GitHub-Igorkaiqq-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Igorkaiqq)
+![Profile views](https://komarev.com/ghpvc/?username=Igorkaiqq&style=flat-square&color=2563eb)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About me
 
-```yaml
-name: Igor Kaique
-located_in: Paraná, Brazil
-current_job: Full Stack Developer
-education:
-  [
-    "Analysis and Systems Development",
-    "Postgraduate Studies in Artificial Intelligence"
-  ]
+I'm a Full Stack Developer based in Paraná, Brazil, with a background in **Systems Analysis and Development** and postgraduate studies in **Artificial Intelligence**.
 
-fields_of_interests:
-  [
-    "Software Architecture",
-    "Artificial Intelligence",
-    "Cloud Computing",
-    "Developer Experience",
-    "DevOps",
-    "Automation"
-  ]
+I enjoy working across the entire software lifecycle — from architecture and APIs to user interfaces, databases, infrastructure and deployment. I'm especially interested in building software products, improving developer workflows and applying AI where it creates real value.
 
-currently_learning:
-  [
-    ".NET Ecosystem",
-    "AI Engineering",
-    "Software Architecture",
-    "Cloud Technologies"
-  ]
+- 🧱 **Engineering:** software architecture, clean code, domain modeling and maintainability
+- 🤖 **Exploring:** AI integrations, intelligent agents and workflow automation
+- ☁️ **Building with:** containers, Linux, CI/CD and cloud infrastructure
+- 🖨️ **Beyond software:** 3D printing, digital manufacturing and entrepreneurship
 
-hobbies:
-  [
-    "Coding",
-    "Gaming",
-    "3D Printing",
-    "Learning New Technologies"
-  ]
-```
+## 🛠️ Tech stack
 
----
+**Backend**
 
-# 💻 Tech Stack
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,java,nodejs,nestjs,prisma)
 
-## Backend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,nodejs" />
-</p>
+![Frontend](https://skillicons.dev/icons?i=react,vue,angular,ts,js,vite,tailwind,html,css)
 
-## Frontend
+**Data & messaging**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,ts,js,vite,html,css,tailwind" />
-</p>
+![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-## Databases
+**Infrastructure & tools**
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+![Infrastructure](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,azure,vscode,postman)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Dev Containers](https://img.shields.io/badge/Dev%20Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p>
+## 🚀 Projects
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+### 🖨️ MakerDesk — Software for makers and 3D printing businesses
 
-</p>
+A software product focused on helping makers manage their operations, including product pricing, sales, inventory and production workflows.
 
-## DevOps & Infrastructure
+**Stack:** NestJS · React · TypeScript · Prisma · PostgreSQL · Redis · Docker
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,azure" />
-</p>
+> Currently under active development. The main repository is private.
 
-<p>
+### 🥊 [Rinha das Lendas](https://github.com/Igorkaiqq/RinhaDasLendas) — Community match management
 
-![Dev Containers](https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge\&logo=portainer\&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge\&logo=traefikproxy\&logoColor=white)
+A project for organizing custom League of Legends matches, with a .NET backend, Vue frontend and a specification-driven development workflow.
 
-</p>
+**Stack:** .NET · Vue · PostgreSQL · Docker · Dev Containers
 
-## Tools
+### 💰 MyWallet — Personal finance & software architecture
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,rider,postman" />
-</p>
+A personal finance project for exploring software design practices and architectural patterns, including DDD, CQRS, SOLID and event-driven systems.
 
----
+> An architecture-focused project; implementation and scope may evolve.
 
-# 🏗️ Featured Projects
+### 🧩 IKC — Digital manufacturing & custom products
 
-## 🥊 RinhaDasLendas
+Hands-on work at the intersection of technology, 3D printing, product development and e-commerce — turning operational challenges into opportunities for automation.
 
-A platform designed to organize custom League of Legends matches with advanced draft management.
-
-### Features
-
-* Player Registration
-* Team Draft System
-* Captain Selection
-* Team Balancing
-* Authentication & Authorization
-* Discord Integration
-* Rankings & Statistics
-
-**Stack:** ASP.NET Core • Vue 3 • PostgreSQL • Docker
-
----
-
-## 💰 MyWallet
-
-Personal finance platform focused on applying modern software engineering concepts.
-
-### Goals
-
-* DDD
-* Clean Architecture
-* SOLID
-* CQRS
-* Event-Driven Architecture
-* Microservices
-* Open Finance
-
----
-
-## 🖨️ IKCLab
-
-3D Printing Laboratory focused on custom products and digital manufacturing.
-
----
-
-# 📊 GitHub Analytics
+## 📈 GitHub activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Igorkaiqq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorkaiqq&layout=compact&langs_count=10&theme=tokyonight"/>
+<img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Igorkaiqq&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorkaiqq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+> GitHub metrics reflect public activity and may not include work in private repositories.
 
-# 🔥 Contribution Streak
+## 🎯 What I'm focused on
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Igorkaiqq&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Igorkaiqq&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Igorkaiqq&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-* Software Architecture
-* Artificial Intelligence
-* Cloud Computing
-* DevOps
-* Distributed Systems
-* Developer Experience
+- Designing maintainable, production-ready applications
+- Applying AI and automation to real business processes
+- Improving developer experience, testing and delivery workflows
+- Learning more about distributed systems and cloud architecture
 
 ---
 
 <div align="center">
 
-### "First, solve the problem. Then, write the code."
+**Build thoughtfully. Keep learning. Solve real problems.**
 
-⭐ Feel free to explore my repositories and connect with me!
+[Let's connect on LinkedIn ↗](https://linkedin.com/in/igor-kaique)
 
 </div>
